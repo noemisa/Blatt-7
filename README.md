@@ -13,11 +13,11 @@ Noemi Santamaria,
 
 ###Tabelle
 
-| was | kommt | jetzt |
+| dude | where's | my car |
 |:------:|:------:|:------:|
-| und dann | und dann | und dann |
-| und dann | und dann | und dann |
-| und dann | und dann | und daaaaaann? |
+| and then | and then | and then |
+| and then | and then | and then |
+| uand then | and then | and theeeeeeen? |
 
 ---
 
