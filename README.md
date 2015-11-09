@@ -14,9 +14,9 @@ Noemi Santamaria,
 ###Tabelle
 
 | und dann | und dann | und dann |
+|:------:|:------:|:------:|
 | und dann | und dann | und dann |
 | und dann | und dann | und daaaaaann? |
-|:------:|:------:|:------:|
 
 ---
 
