@@ -13,7 +13,6 @@ Noemi Santamaria,
 
 ###Tabelle
 
-| 1 | 2 | 3 |
 |:------:|:------:|:------:|
 | und dann | und dann | und dann |
 | und dann | und dann | und dann |
